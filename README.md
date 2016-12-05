@@ -41,3 +41,11 @@ Installation: Simply download this file and put it in the "Plugins" subfolder of
 <br />
 <a href="./Gaussian_Synth.java" target="_blank"><img src="./interactiveGaussianSynth.png" ></img></a>
 <br /><br /><br />
+
+<b>cellPartition</b><br />
+<i>Program</i>: <a href="./cellPartition.ijm">cellPartition</a>							
+<br />
+Works on a 2-channel image (or stack) and uses the information of nuclei (in the first channel) to estimate cell boundaries. The estimated cell boundaries will be added as a third channel to the composite image (or stack).  					
+<br />
+<a href="./cellPartition.ijm" target="_blank"><img src="./cellPartition.png" ></img></a>
+<br /><br /><br />
