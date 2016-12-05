@@ -18,9 +18,9 @@ Takes regions-of-interest (ROI) from an image series in order to extract and con
 <br /><br /><br />
 
 <b>SplitImage_andConcatenate</b><br />
-<i>Program</i>: <a href="./SplitConcatenate.ijm.txt">SplitImage_andConcatenate</a>							
+<i>Program</i>: <a href="./SplitImage_andConcatenate.ijm">SplitImage_andConcatenate</a>							
 <br />
 This macro splits an image into user-defined smaller-size images and concatenates them into a stack. It works with 8-, 16-, 32-bit, RGB and composite images.							
 <br />
-<a href="./SplitConcatenate.ijm.txt" target="_blank"><img src="./Split.gif" ></img></a>
+<a href="./SplitImage_andConcatenate.ijm" target="_blank"><img src="./Split.gif" ></img></a>
 <br /><br /><br />
