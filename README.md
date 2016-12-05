@@ -8,3 +8,11 @@ This macro opens files from a selected folder plus subfolders. It only opens tho
 <br />
 <a href="./OpenSpecFiles.ijm" target="_blank"><img src="./OpenSpecFiles.png" ></img></a>
 <br /><br /><br />
+
+<b>ROIExtractConcatenate</b><br />
+<i>Program</i>: <a href="./ROI_ExtractConcatenate.ijm">OpenSpecFiles</a>							
+<br />
+Takes regions-of-interest (ROI) from an image series in order to extract and concatenate user-defined area selections for better object displays. The size of the area and the area shape (circular or square) can freely be chosen. The macro works with 8-, 16-, 32-bit images, RGB images and hyperstacks (i.e. composite images). For multi-channel hyperstacks, the user can choose whether to display specific channels, or all channels.							
+<br />
+<a href="./ROI_ExtractConcatenate.ijm" target="_blank"><img src="./ROI_ExtractConcatenate.gif" ></img></a>
+<br /><br /><br />
