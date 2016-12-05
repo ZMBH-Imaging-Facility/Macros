@@ -34,10 +34,10 @@ Counts the number of cells with a cytosolic signal above a user-defined threshol
 <br /><br /><br />
 
 <b>Gaussian_Synth</b><br />
-<i>Program</i>: <a href="./Gaussian_Synth.ijm">Gaussian_Synth</a>							
+<i>Program</i>: <a href="./Gaussian_Synth.java">Gaussian_Synth</a>							
 <br />
 Synthesizes a spot with Gaussian intensity on an opened image. Four parameters of Center (X and Y), width, and the intensity of the Gaussian profile can be adjusted interactively. The synthesized image can be used again to synthesize other spots (by preserving previous ones). The starting point for this Java program was the program Cross_Fader.java, written by Michael Schmid. 
 Installation: Simply download this file and put it in the "Plugins" subfolder of your ImageJ (or Fiji) folder. Then, launch ImageJ (or Fiji) again. 					
 <br />
-<a href="./Gaussian_Synth.ijm" target="_blank"><img src="./interactiveGaussianSynth.png" ></img></a>
+<a href="./Gaussian_Synth.java" target="_blank"><img src="./interactiveGaussianSynth.png" ></img></a>
 <br /><br /><br />
