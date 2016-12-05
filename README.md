@@ -24,3 +24,11 @@ This macro splits an image into user-defined smaller-size images and concatenate
 <br />
 <a href="./SplitImage_andConcatenate.ijm" target="_blank"><img src="./Split.gif" ></img></a>
 <br /><br /><br />
+
+<b>Nuclei_PeripheryMeasure</b><br />
+<i>Program</i>: <a href="./Nuclei_PeripheryMeasure.ijm">Nuclei_PeripheryMeasure</a>							
+<br />
+This macro splits an image into user-defined smaller-size images and concatenates them into a stack. It works with 8-, 16-, 32-bit, RGB and composite images.							
+<br />
+<a href="./Nuclei_PeripheryMeasure.ijm" target="_blank"><img src="./Nuclei_PeripheryMeasure.png" ></img></a>
+<br /><br /><br />
